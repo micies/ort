@@ -1,0 +1,37 @@
+/.idea
+/.vscode
+
+
+
+
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+client/src/state
+client/src/components/users/trash.js
+server/__pycache__
+server/routers/__pycache__
+server/schemas/__pycache__
+client/node_modules
+client/.env
+server/.env
+client/src/components/users/box.js
+client/src/components/playGround.js
+server/tests
+server/serviceAccountKey.json
+client/src/components/usersWithRedux

@@ -1,0 +1,8 @@
+firebase_admin
+uvicorn
+fastapi
+firebase_admin
+starlette
+python-dotenv
+itsdangerous
+dotenv
