@@ -35,3 +35,4 @@ client/src/components/playGround.js
 server/tests
 server/serviceAccountKey.json
 client/src/components/usersWithRedux
+.gitignore
