@@ -36,3 +36,7 @@ server/tests
 server/serviceAccountKey.json
 client/src/components/usersWithRedux
 .gitignore
+server/admin.py
+server/data.json
+server/routers/index.py
+server/schemas/index.py

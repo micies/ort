@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routers.index import users
+from routers.users import users
 from starlette.middleware.sessions import SessionMiddleware
 from firebase_admin import  firestore, storage, auth
 import uvicorn
