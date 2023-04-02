@@ -1,4 +1,5 @@
 
+import React from "react";
 
 export function Input({ value, id,onChange, name, disabled, type, pattern }) {
   return (

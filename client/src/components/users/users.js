@@ -1,8 +1,4 @@
 import React, { useState, useEffect} from "react";
-import { useSelector , useDispatch} from "react-redux";
-import { bindActionCreators } from "redux";
-import { actionCreators } from "../../state/index";
-
 import { Get } from "../../BaseService";
 import  ShowInformation from "./informationIp";
 import { CreateUser } from "./createUser";
@@ -10,6 +6,7 @@ import { UpdateUser } from "./updateUser";
 import { ViewUser } from "./viewUser";
 import { DeleteUser } from "./deleteUser";
 import Search from "./search";
+
 
 
 export default function Users() {
